@@ -1,0 +1,12 @@
+#prueba {
+    overflow-x: scroll;
+}
+
+.cardImage {
+    height: 200px;
+    width: 300px;
+}
+
+h2 {
+    color: rgb(226, 92, 106)
+}

@@ -1,0 +1,22 @@
+.boton {
+    border-width: 0px;
+    background-color: rgba(255, 255, 255, 0);
+}
+
+.boton:hover {
+    border-width: 0px;
+    background-color: rgba(255, 255, 255, 0);
+    color: blue;
+    transition: all 0.5s;
+}
+
+.deleter {
+    background-color: rgba(255, 255, 255, 0);
+    border-style: none;
+}
+
+.deleter:hover {
+    color: rgb(226, 92, 106);
+    transition: all 0.5s;
+
+}
